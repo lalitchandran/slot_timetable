@@ -30,7 +30,7 @@ Execute the program using runserver command.
         <center>
         <img src="logo.png" width="500px"
         <title></title>
-        <caption><h3>SLOT TIMETABLE- ROSHINI.S(212223230174)</h3></caption>
+        <caption><h3>SLOT TIMETABLE- S LALIT CHANDRAN(212223240077)</h3></caption>
         </center>
     </head>
     <body>
@@ -132,7 +132,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/e7de54c8-428b-41b7-a45f-a1c0613cf13d)
+![image](https://github.com/user-attachments/assets/e2fc9efb-b168-480d-8c7f-9ee7aa891fd5)
 
 
 ## RESULT
